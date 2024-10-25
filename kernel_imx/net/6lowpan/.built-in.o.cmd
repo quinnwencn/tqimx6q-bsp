@@ -1,0 +1,1 @@
+cmd_net/6lowpan/built-in.o :=  arm-linux-gnueabihf-ld -EL    -r -o net/6lowpan/built-in.o net/6lowpan/6lowpan.o net/6lowpan/nhc_dest.o net/6lowpan/nhc_fragment.o net/6lowpan/nhc_hop.o net/6lowpan/nhc_ipv6.o net/6lowpan/nhc_mobility.o net/6lowpan/nhc_routing.o net/6lowpan/nhc_udp.o 
