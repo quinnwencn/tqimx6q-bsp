@@ -1,5 +1,0 @@
-kernel/drivers/input/keyboard/atkbd.ko
-kernel/drivers/input/keyboard/gpio_keys.ko
-kernel/drivers/input/keyboard/imx_keypad.ko
-kernel/drivers/input/keyboard/snvs_pwrkey.ko
-kernel/drivers/input/keyboard/tq_hs0038.ko

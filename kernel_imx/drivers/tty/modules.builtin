@@ -1,6 +1,0 @@
-kernel/drivers/tty/serial/serial_core.ko
-kernel/drivers/tty/serial/imx.ko
-kernel/drivers/tty/serial/sc16is7xx.ko
-kernel/drivers/tty/serial/fsl_lpuart.ko
-kernel/drivers/tty/serial/8250/8250.ko
-kernel/drivers/tty/serial/8250/8250_pci.ko

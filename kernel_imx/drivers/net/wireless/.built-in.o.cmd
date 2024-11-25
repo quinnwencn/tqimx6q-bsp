@@ -1,1 +1,0 @@
-cmd_drivers/net/wireless/built-in.o :=  arm-linux-gnueabihf-ld -EL    -r -o drivers/net/wireless/built-in.o drivers/net/wireless/hostap/built-in.o drivers/net/wireless/rtl818x/built-in.o drivers/net/wireless/rndis_wlan.o drivers/net/wireless/brcm80211/built-in.o drivers/net/wireless/bcmdhd/built-in.o 

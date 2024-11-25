@@ -1,4 +1,0 @@
-kernel/drivers/input/touchscreen/of_touchscreen.ko
-kernel/drivers/input/touchscreen/ads7846.ko
-kernel/drivers/input/touchscreen/imx6ul_tsc.ko
-kernel/drivers/input/touchscreen/stmpe-ts.ko

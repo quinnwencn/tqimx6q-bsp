@@ -1,1 +1,0 @@
-cmd_arch/arm/mach-imx/devices/built-in.o :=  arm-linux-gnueabihf-ld -EL    -r -o arch/arm/mach-imx/devices/built-in.o arch/arm/mach-imx/devices/devices.o arch/arm/mach-imx/devices/platform-gpio-mxc.o arch/arm/mach-imx/devices/platform-imx-dma.o 

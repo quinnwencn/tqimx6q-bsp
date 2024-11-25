@@ -1,3 +1,0 @@
-kernel/drivers/rtc/rtc-mxc.ko
-kernel/drivers/rtc/rtc-pcf8563.ko
-kernel/drivers/rtc/rtc-snvs.ko
