@@ -18,5 +18,5 @@ docker run \
     --hostname buildserver \
     -it \
     -v `pwd`/../tqimx6q-bsp:/home/$(whoami)/imx6q \
-    builder_1604
+    builder_1604 
 utils_check_ret $? "Docker container run"

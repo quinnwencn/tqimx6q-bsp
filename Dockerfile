@@ -36,3 +36,4 @@ RUN echo "en_US.UTF-8 UTF-8" > /etc/locale.gen && locale-gen
 USER $USER_NAME
 WORKDIR /home/$USER_NAME
 RUN git config --global user.email "quinnwen.cn@gmail.com" && git config --global user.name "Quinn Wen"
+CMD ["bash", "-c", "source /etc/environment && exec bash"]
