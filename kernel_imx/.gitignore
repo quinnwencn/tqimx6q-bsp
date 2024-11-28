@@ -3,3 +3,6 @@ imx6q-corea-sabresd.dtb
 e9v2-sabresd.dtb
 e9v3-sabresd.dtb
 imx6q-sabresd.dtb
+include/generated/compile.h
+
+.version
